@@ -1,0 +1,8 @@
+name: exemplo
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - notebook
+  - rise
